@@ -4,3 +4,7 @@
 'Jet-Ski-Racer/Library/*' filter=lfs diff=lfs merge=lfs -text
 'Jet-Ski-Racer/*' filter=lfs diff=lfs merge=lfs -text
 'Jet-Ski-Racer/Assets/*' filter=lfs diff=lfs merge=lfs -text
+'Jet-Ski-Racer/Library/Artifacts/9e/*' filter=lfs diff=lfs merge=lfs -text
+'Jet-Ski-Racer/Library/Artifacts/03/*' filter=lfs diff=lfs merge=lfs -text
+'Jet-Ski-Racer/Library/Artifacts/cc/*' filter=lfs diff=lfs merge=lfs -text
+'Jet-Ski-Racer/Library/Artifacts/0d/*' filter=lfs diff=lfs merge=lfs -text
