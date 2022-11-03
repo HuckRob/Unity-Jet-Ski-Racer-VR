@@ -1,3 +1,9 @@
 *.unity filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
 *.exr filter=lfs diff=lfs merge=lfs -text
+'Jet filter=lfs diff=lfs merge=lfs -text
+Ski filter=lfs diff=lfs merge=lfs -text
+Racer/Library/*' filter=lfs diff=lfs merge=lfs -text
+'Jet_Ski_Racer/Library/*' filter=lfs diff=lfs merge=lfs -text
+'Jet_Ski_Racer/*' filter=lfs diff=lfs merge=lfs -text
+'Jet_Ski_Racer/Assets/*' filter=lfs diff=lfs merge=lfs -text
