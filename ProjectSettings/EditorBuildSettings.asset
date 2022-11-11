@@ -6,10 +6,10 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/Start Scene.unity
+    path: Assets/_Scenes/Start Scene.unity
     guid: a04558f34ea8551429b6695397db5034
   - enabled: 1
-    path: Assets/Scenes/JetSkiRaceCourseScene.unity
+    path: Assets/_Scenes/JetSkiRaceCourseScene.unity
     guid: 5e04a3270e195a9479a73a2554910e30
   m_configObjects:
     com.unity.input.settings: {fileID: 11400000, guid: 53ad57f7daa56144899b69d2c1932be8, type: 2}
